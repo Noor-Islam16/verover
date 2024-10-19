@@ -10,8 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-navigation/native-stack": "^6.11.0",
     "react": "18.3.1",
-    "react-native": "0.75.4"
+    "react-native": "0.75.4",
+    "react-native-navigation": "^7.40.3",
+    "veroverapp": "file:"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
